@@ -11,4 +11,4 @@ Display the currency and market changes of various cytrocurrencies. This will pr
 * Axios
 
 
-![Image of Yaktocat](https://github.com/turja-c/crypto-tracker/issues/1)
+![Preview](https://user-images.githubusercontent.com/42366823/105231169-77b96d80-5b34-11eb-8f9d-b9120b4d975d.png)
