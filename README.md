@@ -10,3 +10,5 @@ Display the currency and market changes of various cytrocurrencies. This will pr
 * CoinGecko API
 * Axios
 
+
+![Image of Yaktocat](https://github.com/turja-c/crypto-tracker/issues/1)
